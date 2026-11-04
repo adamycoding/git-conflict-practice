@@ -1,1 +1,1 @@
-# Git Conflict Practice Written by Adam
+# Written by Adam and Jon
